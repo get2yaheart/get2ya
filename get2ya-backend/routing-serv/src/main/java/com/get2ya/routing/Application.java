@@ -1,4 +1,4 @@
-package com.get2ya.dispatch;
+package com.get2ya.routing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
