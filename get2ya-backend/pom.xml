@@ -9,7 +9,11 @@
 
   <!-- 1. List child folders -->
   <modules>
-    <module>routing-core</module>
+    <module>routing-serv</module>
+    <module>pricing-serv</module>
+    <module>dispatch-serv</module>
+    <module>trip-orchestration-serv</module>
+    <module>common</module>
     <!-- add dispatcher-serv, pricing-serv, … later -->
   </modules>
 
