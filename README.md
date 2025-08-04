@@ -10,6 +10,7 @@ Get2Ya focuses on highly optimized algorithms for routing and dispatching in a m
 
 - Java
 - Spring Boot
+- Maven
 - gRPC
 - Kafka
 - GraphHopper
