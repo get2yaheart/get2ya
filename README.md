@@ -1,3 +1,22 @@
-monorepo
-This is the repo for Get2Ya Rides & Bites project, a community driven ride-hailing and food delivery.  Get2Ya focus on highly optimized algorithms for delevery and prediction, with bandwidths to incorporate AI prediction in the third version of the project.
-Tech stack: Java, Spring Boot, gRPC, Kafka, GraphHopper, H3.
+# Get2Ya Rides & Bites
+
+This is the repo for **Get2Ya Rides & Bites** project, a community-driven ride-hailing and food delivery platform.
+
+Get2Ya focuses on highly optimized algorithms for routing and dispatching in a microservices architecture.
+
+---
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- gRPC
+- Kafka
+- GraphHopper
+- H3
+
+---
+
+## Team Members
+
+- Thang Trinh (Project Lead)
